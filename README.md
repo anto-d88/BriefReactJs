@@ -1,4 +1,4 @@
-# BREAF REACT JS 
+# BRIEF REACT JS 
 ***
 ## Social Networks
 
